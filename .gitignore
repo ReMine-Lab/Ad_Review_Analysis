@@ -1,0 +1,8 @@
+.DS_Store
+.idea/*
+sql_data/*
+*/.DS_Store
+platform_data/*
+ad_reviews/*
+__pycache__/*
+*/__pycache__/*
